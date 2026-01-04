@@ -1,4 +1,4 @@
-#### 📦 Inventory Heatmap & Stock-Out Alerts for Essential Goods
+### 📦 Inventory Heatmap & Stock-Out Alerts for Essential Goods
 
 This project implements a Snowflake-native inventory intelligence system designed to help hospitals, NGOs, and public distribution systems maintain continuous availability of essential goods such as medicines and food.
 
